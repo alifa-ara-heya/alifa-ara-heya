@@ -5,7 +5,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifa_ara)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifa_ara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
