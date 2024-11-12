@@ -1,4 +1,10 @@
 ## Hi there 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?alifa-ara-heya=alifa-ara-heya)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?alifa-ara-heya=alifa-ara-heya)
+
+
+
 
 <!--
 **alifa-ara-heya/alifa-ara-heya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
