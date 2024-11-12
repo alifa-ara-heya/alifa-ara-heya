@@ -1,7 +1,7 @@
 ## Hi there 👋
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?alifa-ara-heya=alifa-ara-heya)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alifa-ara-heya)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?alifa-ara-heya=alifa-ara-heya)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya)
 
 
 
