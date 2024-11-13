@@ -9,6 +9,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)](https://git.io/streak-stats)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)
+
 <!--
 **alifa-ara-heya/alifa-ara-heya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
