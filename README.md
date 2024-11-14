@@ -11,7 +11,7 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=alifa-ara&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://wakapi.dev/alifa-ara)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)](https://git.io/streak-stats)-->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)
 
