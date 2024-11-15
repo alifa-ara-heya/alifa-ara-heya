@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alifa-ara-heya)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alifa-ara-heya)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya)
 
@@ -13,7 +13,7 @@
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)](https://git.io/streak-stats)-->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)
+<!--![GitHub Streak](https://streak-stats.demolab.com/?user=alifa-ara-heya)-->
 
 
 <!--
