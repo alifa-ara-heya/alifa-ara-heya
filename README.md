@@ -1,9 +1,9 @@
 ## Hi there 👋
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alifa-ara-heya)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&bg_color=1A202C&title_color=2F855A&text_color=ffffff)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifa_ara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifa_ara&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/1909c32d-63f3-4bc1-93c3-9f083e022254.svg)](https://wakatime.com/@1909c32d-63f3-4bc1-93c3-9f083e022254)
 
