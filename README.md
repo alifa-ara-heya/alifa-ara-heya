@@ -1,4 +1,8 @@
-## Hello there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Alifa....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alifa-ara-heya)-->
 
 ###
@@ -20,11 +24,7 @@
 
 ###
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Alifa....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+
 
 ###
 
