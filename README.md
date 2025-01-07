@@ -2,7 +2,7 @@
   <img 
     width="100%" 
     style="object-fit: cover;" 
-    src="https://raw.githubusercontent.com/alifa-ara-heya/alifa-ara-heya/refs/heads/main/banner-2.png" 
+    src="https://raw.githubusercontent.com/alifa-ara-heya/alifa-ara-heya/refs/heads/main/banner-3.png" 
   />
 </div>
 
