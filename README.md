@@ -1,3 +1,11 @@
+<div align="center">
+  <img 
+    width="100%" 
+    style="object-fit: cover;" 
+    src="https://raw.githubusercontent.com/alifa-ara-heya/alifa-ara-heya/refs/heads/main/banner-2.png" 
+  />
+</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Alifa....;Nice+to+meet+you!&center=true&size=30">
@@ -7,23 +15,10 @@
 
 ###
 
-<div align="center">
-  <img 
-    width="100%" 
-    style="object-fit: cover;" 
-    src="https://raw.githubusercontent.com/alifa-ara-heya/alifa-ara-heya/refs/heads/main/banner-portfolio.png" 
-  />
-</div>
+
 
 
 ###
-
-<br clear="both">
-
-<h5 align="center">Frontend Web Developer</h5>
-
-###
-
 
 
 ###
