@@ -105,9 +105,9 @@
   <a href="https://wakatime.com/@1909c32d-63f3-4bc1-93c3-9f083e022254" target="_blank">
     <img src="https://wakatime.com/badge/user/1909c32d-63f3-4bc1-93c3-9f083e022254.svg" alt="WakaTime Badge">
   </a>
-  <a href="https://wakapi.dev/alifa-ara" target="_blank">
+  <span>
     <img src="https://wakapi.dev/api/badge/alifa-ara/alifa-ara/interval:30_days?label=last%2030d" alt="Wakapi Badge">
-  </a>
+  </span>
 </div>
 
 ###
