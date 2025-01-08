@@ -92,6 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff&hide_border=false&order=2&card_width=320" height='150' alt="languages graph"  />
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://follownaim-streak-stats.vercel.app?user=alifa-ara-heya&theme=dark" alt="GitHub Streak" /></a>
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff)-->
 
 ###
