@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="center">Technologies I Use</h2>
+<h2 align="center">🚀 Technologies I Use</h2>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="center">Technologies I Am Planning To learn in 2025</h2>
+<h2 align="center">🚀 Technologies I Am Planning To learn in 2025</h2>
 
 ###
 
@@ -100,7 +100,7 @@
 </div>
 
 
-<h2 align="center">My Wakatime and Wakapi Stats</h2>
+<h2 align="center">💻 My Wakatime and Wakapi Stats</h2>
 
 ###
 
