@@ -63,7 +63,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alifa-ara" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title='LinkedIn'  />
   </a>
 </div>
 
@@ -94,10 +94,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff&hide_border=false&order=2&card_width=320" height='150' alt="languages graph"  />
 </div>
 
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://follownaim-streak-stats.vercel.app?user=alifa-ara-heya&theme=dark" alt="GitHub Streak" /></a>
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff)-->
+</div>
 
-###
 
 <h2 align="center">My Wakatime and Wakapi Stats</h2>
 
