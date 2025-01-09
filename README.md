@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hi, I'm Alifa Ara Heya, a passionate junior frontend developer with a knack for crafting dynamic and user-friendly interfaces using React and Tailwind CSS. My journey into programming started with a curious mindset and a desire to build things that could make life easier and more exciting.</p>
+<p align="left">I'm a passionate junior frontend developer with a knack for crafting dynamic and user-friendly interfaces using React and Tailwind CSS. My journey into programming started with a curious mindset and a desire to build things that could make life easier and more exciting.</p>
 
 ###
 
