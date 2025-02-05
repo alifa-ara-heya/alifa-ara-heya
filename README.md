@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="center">📫 Social Media and Contact</h2>
 
 ###
 
@@ -76,6 +76,22 @@
 </a>
 
 </div>
+
+
+
+<h2 align="center">🌟 Current Activities</h2>
+
+<div align="">
+  <ul style="list-style-type: disc; text-align: ; display: inline-block;">
+    <li> Exploring Next.js
+    </li>
+    <li>Learning Data Structures and Algorithms
+    </li> 
+  </ul>
+</div>
+
+
+
 
 ###
 
