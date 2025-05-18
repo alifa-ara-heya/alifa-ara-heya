@@ -126,11 +126,11 @@
 </div>
 
 
-<h2 align="center">💻 My Wakatime and Wakapi Stats</h2>
+<h2 align="center">💻 My Wakatime Stats</h2>
 
 ###
 
-<div style="display: flex; gap: 30px; align-items: center;">
+<!--<div style="display: flex; gap: 30px; align-items: center;">
   <a href="https://wakatime.com/@1909c32d-63f3-4bc1-93c3-9f083e022254" target="_blank">
     <img src="https://wakatime.com/badge/user/1909c32d-63f3-4bc1-93c3-9f083e022254.svg" alt="WakaTime Badge">
   </a>
@@ -138,10 +138,15 @@
     <img src="https://wakapi.dev/api/badge/alifa-ara/alifa-ara/interval:30_days?label=last%2030d" alt="Wakapi Badge">
   </span>
 </div>
+-->
+
+  <a href="https://wakatime.com/@1909c32d-63f3-4bc1-93c3-9f083e022254" target="_blank">
+    <img src="https://wakatime.com/badge/user/1909c32d-63f3-4bc1-93c3-9f083e022254.svg" alt="WakaTime Badge">
+  </a>
 
 ###
 
-<div style="display: flex; gap: 20px; align-items: center; justify-content: space-evenly; flex-wrap: wrap">
+<!--<div style="display: flex; gap: 20px; align-items: center; justify-content: space-evenly; flex-wrap: wrap">
   <span>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alifa-ara&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakapi Week Stats">
  </span>
@@ -149,6 +154,10 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alifa_ara&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff" alt="WakaTime Stats">
   </a>
 </div>
+-->
+ <a href="https://wakatime.com/@alifa_ara" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alifa_ara&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff" alt="WakaTime Stats">
+  </a>
 
 
 <!--[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=alifa-ara&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://wakapi.dev/alifa-ara)-->
