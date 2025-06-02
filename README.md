@@ -22,16 +22,14 @@
 
 
 ###
-
 <h2 align="center">About Me</h2>
 
 ###
-
 <p align="left">I'm a passionate junior frontend developer with a knack for crafting dynamic and user-friendly interfaces using React and Tailwind CSS. My journey into programming started with a curious mindset and a desire to build things that could make life easier and more exciting.</p>
 
 ###
 
-<h2 align="center">🚀 Technologies I Use</h2>
+<h2 align="center"> Technologies I Use</h2>
 
 ###
 
@@ -57,7 +55,7 @@
 
 ###
 
-<h2 align="center">📫 Social Media and Contact</h2>
+<h2 align="center"> Social Media and Contact</h2>
 
 ###
 
@@ -79,9 +77,11 @@
 
 
 
-<h2 align="center">🌟 Current Activities</h2>
+<h2 align="center"> Current Activities</h2>
+<!-- - Exploring Next.js
+- Learning Data Structures and Algorithms -->
 
-<div align="">
+<div align="center">
   <ul style="list-style-type: disc; text-align: ; display: inline-block;">
     <li> Exploring Next.js
     </li>
@@ -95,7 +95,7 @@
 
 ###
 
-<h2 align="center">🚀 Technologies I Am Planning To learn in 2025</h2>
+<h2 align="center"> Technologies I Am Planning To learn in 2025</h2>
 
 ###
 
@@ -113,22 +113,19 @@
 ###
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&bg_color=1A202C&title_color=2F855A&text_color=ffffff)-->
-<h2 align="center">My Most Used Languages So Far</h2>
+<h2 align="center">Stats</h2>
 
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff&hide_border=false&order=2&card_width=320" height='150' alt="languages graph"  />
 </div>
 
+###
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://follownaim-streak-stats.vercel.app?user=alifa-ara-heya&theme=dark" alt="GitHub Streak" /></a>
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff)-->
 </div>
 
-
-<h2 align="center">💻 My Wakatime Stats</h2>
-
-###
 
 <!--<div style="display: flex; gap: 30px; align-items: center;">
   <a href="https://wakatime.com/@1909c32d-63f3-4bc1-93c3-9f083e022254" target="_blank">
@@ -139,10 +136,12 @@
   </span>
 </div>
 -->
-
+###
+<div align = "center">
   <a href="https://wakatime.com/@1909c32d-63f3-4bc1-93c3-9f083e022254" target="_blank">
     <img src="https://wakatime.com/badge/user/1909c32d-63f3-4bc1-93c3-9f083e022254.svg" alt="WakaTime Badge">
   </a>
+</div>
 
 ###
 
@@ -155,9 +154,11 @@
   </a>
 </div>
 -->
+<div align = "center">
  <a href="https://wakatime.com/@alifa_ara" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alifa_ara&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff" alt="WakaTime Stats">
   </a>
+</div>
 
 
 <!--[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=alifa-ara&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://wakapi.dev/alifa-ara)-->
