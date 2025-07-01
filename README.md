@@ -51,8 +51,13 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express" />
 </div>
 
+### 📝 I Try to Document What I Learn
 
+I share what I’m learning about web development, programming, and tech in general on my Dev.to blog:  
+👉 [https://dev.to/alifa_ara_heya](https://dev.to/alifa_ara_heya)
 
+Writing helps me understand better, stay consistent, and hopefully help others along the way.  
+Feel free to check it out.
 ###
 
 <h2 align="center"> Social Media and Contact</h2>
