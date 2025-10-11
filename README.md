@@ -94,6 +94,12 @@ Feel free to check it out.</p>
     </li>
     <li>Learning Data Structures and Algorithms
     </li> 
+- 🧠 Authoring workshop steps for the Full Stack Developer certification
+    <li>Curriculum Contributions
+<!-- <li>- ✍️ Writing clear, accessible instructions and hints in markdown</li>
+<li>- 🔍 Practicing atomic commits and Git best practices</li> -->
+<li>- 🔗 [View my PRs on freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Aalifa-ara-heya)</li>
+    </li>
   </ul>
 </div>
 
