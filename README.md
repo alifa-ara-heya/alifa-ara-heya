@@ -130,7 +130,8 @@ Feel free to check it out.</p>
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff&hide_border=false&order=2&card_width=320" height='150' alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifa-ara-heya&layout=compact&bg_color=1A202C&title_color=2F855A&text_color=ffffff&hide_border=false&order=2&card_width=320" height='150' alt="languages graph"  /> -->
+<figure><embed src="https://wakatime.com/share/@alifa_ara/b02c65e1-15a9-458e-bca6-4238db0337ec.svg"></embed></figure>
 </div>
 
 ###
